@@ -10,7 +10,7 @@
 
 ✨ Some of my notable projects include:
 
-[Project Name 1]: [Brief description of project 1].
+LinkView : [Brief description of project 1].
 
 [Project Name 2]: [Brief description of project 2].
 
