@@ -1,25 +1,21 @@
-👋 Hello, world! I'm Jian Chen
+# Hi 👋, I'm cjy
 
-🌟 I'm a passionate Web front-end engineer dedicated to continuous learning and innovation.
+- 🔭 **目前专注于 AI Agent 全栈开发，并深入探索 AI 驱动编程（Vibe Coding）的前沿范式。**
 
-💻 My journey in the world of technology began with University period. Since then, I've dived deep into various programming languages and tools.
+- 🧠 正在学习 **Vibe Coding、python、honojs、数据库**
 
-📚 I'm constantly exploring new technologies and frameworks to expand my skill set. Currently, I'm particularly intrigued by SSR and Nest.js.
+- 💬 Ask me about **React、Vue、Nodejs**
 
-🌱 This GitHub profile is a reflection of my growth and learning. Here, you'll find projects that showcase my problem-solving abilities and creativity.
+- 📫 联系我 **cjy19980128@gmail.com**
 
-✨ Some of my notable projects include:
+- 👨‍💻 我的项目 **[https://cjy.deepthinkspace.cn](https://cjy.deepthinkspace.cn)**
 
-LinkView : [Brief description of project 1].
+- 📝 我的博客 **[https://cjy.cc.cd](https://cjy.cc.cd)**
 
-[Project Name 2]: [Brief description of project 2].
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/cjy1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cjy1998" height="30" width="40" /></a>
+</p>
 
-📖 I also believe in sharing knowledge and learning from others. I contribute to open source projects whenever I can and engage in the vibrant GitHub community.
-
-💬 If you have any questions, suggestions, or just want to connect, feel free to reach out!
-
-📫 Email: 1404340013@qq.com
-
-🔗 LinkedIn: [Your LinkedIn Profile Link]
-
-Let's code and create together! 😊
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </p>
